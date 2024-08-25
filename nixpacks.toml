@@ -1,0 +1,5 @@
+[build]
+python_version = "3.x"  
+
+[start]
+command = "python app.py"
