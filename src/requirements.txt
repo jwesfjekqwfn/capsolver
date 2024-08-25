@@ -4,3 +4,4 @@ requests
 loguru
 tqdm
 Pillow
+gunicorn

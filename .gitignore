@@ -1,5 +1,5 @@
-funcaptcha_challenger/models/*.onnx
-funcaptcha_challenger/__pycache__
+src/funcaptcha_challenger/models/*.onnx
+src/funcaptcha_challenger/__pycache__
 node_modules
 package-lock.json
 package.json
