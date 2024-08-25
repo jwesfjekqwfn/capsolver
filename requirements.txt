@@ -1,0 +1,6 @@
+Flask
+onnxruntime
+requests
+loguru
+tqdm
+Pillow

@@ -1,0 +1,2 @@
+funcaptcha_challenger/models/*.onnx
+funcaptcha_challenger/__pycache__
