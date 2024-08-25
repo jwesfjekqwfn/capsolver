@@ -25,7 +25,7 @@ def process_image(image_data, image_type):
         # Return None to indicate that an error occurred
         return None
 
-@app.route('/process-image', methods=['POST'])
+@app.route('/createTask', methods=['POST'])
 def process_image_route():
     data = request.json
     
