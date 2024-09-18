@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from src import funcaptcha_challenger
+from .src import funcaptcha_challenger
 import base64
 from PIL import Image
 import io
